@@ -1,0 +1,5 @@
+venv
+data/full_train*
+*.swp
+*.pyc
+*.txt
